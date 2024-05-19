@@ -11,3 +11,16 @@
     height: 100vh;
     background-color: #333333;
 }
+.calculator {
+    border-radius: 22px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: calc(546px/1.5);
+    height: fit-content;
+    background-color: #D9D9D9;
+    padding: 20px;
+}
+
+.numbers {
+    background: #777777;
+}
