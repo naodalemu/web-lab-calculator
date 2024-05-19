@@ -59,3 +59,17 @@
     height: 80px;
     font-weight: bold;
 }
+.button:nth-child(4n) {
+    background-color: #FF9500;
+    color: white;
+}
+
+.button:nth-child(4) {
+    background-color: red;
+    color: white;
+}
+
+.button:nth-child(19) {
+    background-color: #28A745;
+    color: white;
+}
