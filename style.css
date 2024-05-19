@@ -43,3 +43,19 @@
     text-align: right;
     padding: 10px;
 }
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.button {
+    padding: 20px;
+    font-size: 1.5em;
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 11px;
+    height: 80px;
+    font-weight: bold;
+}
