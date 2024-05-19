@@ -32,3 +32,16 @@ function appendValue(value) {
     display.value += value;
   }
 }
+
+function calculate() {
+  const display = document.getElementById('display');
+  try {
+      display.value = eval(display.value);
+
+      if (isNaN(display.value) || display.value === Infinity) {
+          throw new Error('Invalid calculation');
+      }
+  } catch (e) {
+      display.value = 'Error';
+  }
+}
