@@ -4,7 +4,7 @@
 
 - **Bereket Fanose** - UGR/23005/13
 - **Bernabas Tesfaye** - UGR/22610/13
-- **Eyerusalem Hailemariayam** - UGR/22598/13
+- **Eyerusalem Hailemaryam** - UGR/22598/13
 - **Naod Alemu** - UGR/22812/13
 - **Oliyad Negero** - UGR/22725/13
 
